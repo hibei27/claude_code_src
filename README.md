@@ -34,11 +34,6 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 > 手慢无，不知道腾讯云的镜像缓存什么时候也没了
 
 
-可以关注我的公众号，行业第一手信息，都会发在文章中
-
-<img width="805" height="378" alt="图片" src="https://github.com/user-attachments/assets/360b9ab0-24f0-4806-87f4-921a239550d8" />
-
-
 ---
 
 ## 项目结构概览
