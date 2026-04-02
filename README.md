@@ -109,4 +109,5 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ponponon/claude_code_src&type=Date)](https://star-history.com/#ponponon/claude_code_src&Date)
+<img width="363" height="481" alt="image" src="https://github.com/user-attachments/assets/639e07d7-ad8b-44f3-b8ab-fa55ca3425b6" />
+
